@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Seminex 2 - Authentication System
 
 A complete authentication system with login and registration functionality, built with React frontend and Node.js backend.
@@ -213,3 +214,7 @@ Response:
 - The frontend automatically handles token storage in localStorage
 - All API calls include proper error handling
 - The UI is fully responsive and works on mobile devices 
+=======
+# SemiNex
+Seminar Portal - Emphasizes insightful gatherings
+>>>>>>> f2fbb76ebacefcdba57410a9ad92744f12598129
